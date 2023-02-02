@@ -1,0 +1,19 @@
+{
+  "name": "first-package-pjved",
+  "version": "0.0.1",
+  "description": "first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalhn18/first-package-pjved.git"
+  },
+  "author": "Prajwal H N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajwalhn18/first-package-pjved/issues"
+  },
+  "homepage": "https://github.com/prajwalhn18/first-package-pjved#readme"
+}
